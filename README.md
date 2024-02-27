@@ -1,5 +1,7 @@
 # c2CFG
 
+*Need to update the python tool to work from any directory.*
+
 ## Overview
 **c2CFG** is an innovative tool designed to assist programmers in understanding the control flow structure of C code. Named after its primary function, which is to convert C code into its corresponding Control Flow Graph (CFG).
 
